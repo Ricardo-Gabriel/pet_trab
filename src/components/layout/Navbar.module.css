@@ -3,7 +3,7 @@
     justify-content: space-between;
     background-color: #156064;
     padding: 1em;
-    height: 100px;
+    height: 50px;
     color: #fff;
     text-align: center;
 }
@@ -24,4 +24,11 @@
 
 .item a:hover {
     color: #ffbb33;
+}
+img{
+    position: fixed;
+    width: 7.6em;
+    height: 85.5px;
+    top: 0;
+    left: 0;
 }
