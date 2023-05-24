@@ -1,0 +1,24 @@
+.Project_card {
+    margin: 10px;
+    width: 5em;
+    height: 5em;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+}
+
+.Project_card section{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Project_card img{
+    top: 110px;
+    width: 100px;
+
+}
