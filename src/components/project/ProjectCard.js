@@ -1,7 +1,7 @@
 import Card from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
 
-function KitchenSinkExample() {
+export default function ProjectCard() {
   return (
     <Card style={{ width: '18rem' }}>
       <Card.Img variant="bottom" src="../img/logo.jpg" />
@@ -25,7 +25,7 @@ function KitchenSinkExample() {
   );
 }
 
-export default KitchenSinkExample;
+
 
 
 

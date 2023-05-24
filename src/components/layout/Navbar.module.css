@@ -3,10 +3,8 @@
     justify-content: space-between;
     background-color: #156064;
     padding: 1em;
-    height: 50px;
-    color: #fff;
-    text-align: center;
 }
+
 .list {
     display: flex;
     list-style: none;
@@ -26,9 +24,9 @@
     color: #ffbb33;
 }
 img{
-    position: fixed;
+    position: absolute;
     width: 7.6em;
-    height: 85.5px;
+    height: 10.7%;
     top: 0;
     left: 0;
 }

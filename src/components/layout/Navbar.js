@@ -8,9 +8,12 @@ import logo from '../img/logo.jpg'
 export default function Navbar(){
     return(
         <nav className={styles.navbar}>
-        <Container  >
+        <Container >
             <Link to="/">
-                <img src={logo} alt="Logo"></img>
+                <div>
+                    <img src={logo} alt="Logo"></img>
+                </div>
+                
             </Link>
             <ul className={styles.list}>
                 <li className={styles.item}><Link to="/">Home</Link></li>
