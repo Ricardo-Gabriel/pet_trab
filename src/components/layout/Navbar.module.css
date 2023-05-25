@@ -1,8 +1,10 @@
 .navbar{
+    position: relative;
     display: flex;
     justify-content: space-between;
     background-color: #156064;
     padding: 1em;
+    height: 80px;
 }
 
 .list {
@@ -18,15 +20,17 @@
 .item a {
     color: #fff;
     text-decoration: none;
+    font-size: 25px;
 }
 
 .item a:hover {
-    color: #ffbb33;
+    color: #FFDD4A;
 }
 img{
     position: absolute;
-    width: 7.6em;
-    height: 10.7%;
-    top: 0;
-    left: 0;
+    top:50%;
+    left: 4%;
+    transform: translate(-50%, -50%);
+    height: 100%;
+    
 }

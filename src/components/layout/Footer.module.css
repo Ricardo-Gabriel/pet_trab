@@ -5,19 +5,20 @@
     text-align: center;
     bottom: 0;
     left: 0;
-    height: 30px;
+    height: 25px;
     position: fixed;
     width: 100%;
 }
 .social_list {
     display: flex;
     justify-content: center;
+    align-items: center;
     list-style: none;
-    
 }
 
 .social_list li{
     margin: 0 1em;
+    padding: 0 1em;
 }
 .social_list li:hover{
     color: #ffbb33;
@@ -25,6 +26,7 @@
 .social_list svg {
     font-size: 1.5em;
     cursor: pointer;
+    
 }
 .copy_right {
     margin-top: 2em;

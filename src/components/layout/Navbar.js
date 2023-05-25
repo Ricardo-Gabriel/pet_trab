@@ -8,7 +8,8 @@ import logo from '../img/logo.jpg'
 export default function Navbar(){
     return(
         <nav className={styles.navbar}>
-        <Container >
+             
+        
             <Link to="/">
                 <div>
                     <img src={logo} alt="Logo"></img>
@@ -20,7 +21,7 @@ export default function Navbar(){
                 <li className={styles.item}><Link to="/Cadastro">Cadastro</Link></li>
                 <li className={styles.item}><Link to="/Catalogo">Catalogo</Link></li>
             </ul>
-        </Container>
+       
     
   </nav>
     )

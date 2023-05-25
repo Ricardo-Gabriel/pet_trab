@@ -4,9 +4,10 @@ import styles from './Catalogo.module.css'
 
 export default function Catalogo(){
     return (
-        <div className={styles.Catalogo}>
+        <div className={styles.Catalogo}>            
             <ProjectCard />
             
+
             
 
         </div>

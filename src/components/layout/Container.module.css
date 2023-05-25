@@ -1,11 +1,12 @@
 .container{
     width: 100vw;
+    height: 80%;
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
     flex-wrap: wrap;
-    background-color: aqua;
-    margin-top: 3.4em;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
 }
 .min-height {
     min-height: 75vh;

@@ -16,6 +16,7 @@ function App() {
       <Navbar />
       
       <Container>
+        
         <Routes>
             <Route exact path='/'  element={<Home />}></Route>
             <Route exact path='/Cadastro'  element={<Cadastro />}></Route>

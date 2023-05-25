@@ -1,6 +1,17 @@
 .Catalogo{
     display: flex;
-    flex-direction: column;
+    flex-direction: column 3;
+    flex-wrap: wrap;
     align-items: center;
-    background-color: aqua;
+    width: 98%;
+    justify-content: space-around;
+}
+
+.Catalogo h1{
+    padding: 15px;
+    margin: 15px;
+    width: 24%;
+    border: 1px solid black;
+    
+
 }
