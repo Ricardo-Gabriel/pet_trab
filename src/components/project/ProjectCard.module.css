@@ -13,9 +13,6 @@
     border-radius: 5%; 
 }
 
-.card :hover{
-    border: 2px solid #FE9000;
-}
 
 .card_img{
    grid-area: 1 / 1 / 2 / 2; 

@@ -9,8 +9,7 @@ export default function ProjectCard() {
       <div className={styles.card_txt}>
         <h3 >Snoop Human</h3>
         <p>Texto</p>
-        <p>Texto</p>
-        <p>Texto</p>
+        
       </div>
     </div>
   );
