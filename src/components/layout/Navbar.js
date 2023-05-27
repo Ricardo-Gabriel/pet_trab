@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom/dist'
 
 import styles from './Navbar.module.css'
 
-import logo from '../img/logo.jpg'
+import logo from '../../img/logo.jpg'
 
 
 export default function Navbar(){
