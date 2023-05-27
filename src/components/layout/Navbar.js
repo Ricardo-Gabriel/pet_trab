@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom/dist'
 
 import styles from './Navbar.module.css'
-import Container from './Container'
+
 import logo from '../img/logo.jpg'
 
 

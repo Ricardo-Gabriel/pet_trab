@@ -1,15 +1,23 @@
 {
-    "Animais": [{
-        "nome": "Snoop Human",
-        "raça": "SRD",
-        "idade": "3"
+  "Animais": [
+    {
+      "imagem": "../img/snoop.jpg",
+      "id": 1,
+      "nome": "Snoop Human",
+      "raca": "SRD",
+      "idade": "3"
     },
     {
-        
+      "id": 2,
+      "nome": "Outro Gato",
+      "raca": "SRD",
+      "idade": "2"
+    },
+    {
+      "id": 1,
+      "nome": "Baby Shark",
+      "raca": "SRD",
+      "idade": "1"
     }
-        
-    ],
-    "imagens":[
-
-    ]
+  ]
 }
