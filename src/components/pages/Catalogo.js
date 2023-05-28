@@ -24,6 +24,7 @@ import { useEffect, useState } from "react";
     
       return (
         <div className={styles.Catalogo}>
+          
           {Animais.length > 0 &&
             Animais.map((animais) => (
               <ProjectCard

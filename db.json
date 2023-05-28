@@ -1,21 +1,25 @@
+
+
 {
   "Animais": [
     {
-      "imagem": "../img/snoop.jpg",
+      "imagem": "snoop.jpg",
       "id": 1,
       "nome": "Snoop Human",
       "raca": "SRD",
       "idade": "3"
     },
     {
+      "imagem": "dogCard01.jpg",
       "id": 2,
       "nome": "Outro Gato",
       "raca": "SRD",
       "idade": "2"
     },
     {
+      "imagem": "dogCard02.jpg",
       "id": 3,
-      "nome": "Baby Shark",
+      "nome": "Lary Dog",
       "raca": "SRD",
       "idade": "1"
     }
