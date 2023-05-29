@@ -1,14 +1,17 @@
 .home_container {
-    margin-top: 100px;
-    width: 100%;
+    position: relative;  
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 4em;
+    width: 80%;
+    margin-bottom: 100px;
+    height: 100%;
+    padding: 1em;
+    min-height: 75vh;
 }
 .home_container h1 {
-    font-size: 2.5em;
+    font-size: 4em;
     margin-bottom: .5em;
 }
 
@@ -20,9 +23,4 @@
 .home_container p{
     margin-bottom: 1.5em;
     color: #7b7b7b;
-}
-.home_container img{
-    width: 305px;
-    margin: 2em 0;
-
 }

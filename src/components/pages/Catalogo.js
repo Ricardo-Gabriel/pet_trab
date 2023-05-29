@@ -1,6 +1,6 @@
 import ProjectCard from "../project/ProjectCard";
 import styles from "./Catalogo.module.css";
-
+import Container from "../layout/Container"
 
 import { useEffect, useState } from "react";
     
@@ -23,7 +23,9 @@ import { useEffect, useState } from "react";
       }, []);
     
       return (
-        <div className={styles.Catalogo}>
+        
+        <Container>
+           <div className={styles.Catalogo}>
           
           {Animais.length > 0 &&
             Animais.map((animais) => (
@@ -36,6 +38,8 @@ import { useEffect, useState } from "react";
               />
             ))}
         </div>
+        </Container>
+       
       );
     }
 

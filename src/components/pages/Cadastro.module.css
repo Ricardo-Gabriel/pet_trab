@@ -1,0 +1,7 @@
+.cadContainer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    min-height: 75%;
+}

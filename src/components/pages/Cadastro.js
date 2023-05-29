@@ -1,10 +1,19 @@
-import styles from './Cadastro.module.css'
+import ProjectForm from '../project/ProjectForm';
+import styles from './Cadastro.module.css';
+import Container from '../layout/Container';
+
 
 export default function Cadastro(){
     return(
-        <>
-            <h1>Tela de cadastro</h1>
+       
+          <Container>
            
-        </>
+             <ProjectForm></ProjectForm>
+            
+            
+          </Container>  
+            
+           
+       
     )
 }

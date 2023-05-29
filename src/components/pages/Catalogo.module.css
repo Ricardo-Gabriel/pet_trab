@@ -4,7 +4,9 @@
     flex-wrap: wrap;
     align-items: center;
     width: 98%;
-    justify-content: space-around;
+    justify-content: space-between;
+    min-height: 75%;
+    padding: 2em;
 }
 
 .Catalogo h1{

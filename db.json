@@ -12,7 +12,7 @@
     {
       "imagem": "dogCard01.jpg",
       "id": 2,
-      "nome": "Outro Gato",
+      "nome": "Gremlin",
       "raca": "SRD",
       "idade": "2"
     },
@@ -22,6 +22,75 @@
       "nome": "Lary Dog",
       "raca": "SRD",
       "idade": "1"
+    },
+    {
+      "imagem": "snoop.jpg",
+      "id": 1,
+      "nome": "Snoop Human",
+      "raca": "SRD",
+      "idade": "3"
+    },
+    {
+      "imagem": "dogCard01.jpg",
+      "id": 2,
+      "nome": "Gremlin",
+      "raca": "SRD",
+      "idade": "2"
+    },
+    {
+      "imagem": "dogCard02.jpg",
+      "id": 3,
+      "nome": "Lary Dog",
+      "raca": "SRD",
+      "idade": "1"
+    },
+    {
+      "imagem": "dogCard01.jpg",
+      "id": 2,
+      "nome": "Gremlin",
+      "raca": "SRD",
+      "idade": "2"
+    },
+    {
+      "imagem": "dogCard02.jpg",
+      "id": 3,
+      "nome": "Lary Dog",
+      "raca": "SRD",
+      "idade": "1"
+    },
+    {
+      "imagem": "snoop.jpg",
+      "id": 1,
+      "nome": "Snoop Human",
+      "raca": "SRD",
+      "idade": "3"
+    },
+    {
+      "imagem": "dogCard01.jpg",
+      "id": 2,
+      "nome": "Gremlin",
+      "raca": "SRD",
+      "idade": "2"
+    },
+    {
+      "imagem": "dogCard02.jpg",
+      "id": 3,
+      "nome": "Lary Dog",
+      "raca": "SRD",
+      "idade": "1"
+    }
+  ],
+  "Clientes": [
+    {
+      "id": 0,
+      "nome": "Ricardo ",
+      "cpf": "00100200304",
+      "rg": "010020034",
+      "endereco": "R. dos bobos",
+      "numero": 0,
+      "complemento": "Sobrado",
+      "bairro": "Centro",
+      "cidade": "Atibaia"
     }
   ]
 }
