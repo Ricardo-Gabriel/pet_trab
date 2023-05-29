@@ -24,61 +24,117 @@
       "idade": "1"
     },
     {
-      "imagem": "snoop.jpg",
-      "id": 1,
-      "nome": "Snoop Human",
-      "raca": "SRD",
+      "imagem": "dogCard03.jpg",
+      "id": 4,
+      "nome": "Bella",
+      "raca": "Labrador Retriever",
+      "idade": "4"
+    },
+    {
+      "imagem": "dogCard04.jpg",
+      "id": 5,
+      "nome": "Max",
+      "raca": "Golden Retriever",
+      "idade": "2"
+    },
+    {
+      "imagem": "dogCard05.jpg",
+      "id": 6,
+      "nome": "Charlie",
+      "raca": "Poodle",
       "idade": "3"
     },
     {
-      "imagem": "dogCard01.jpg",
-      "id": 2,
-      "nome": "Gremlin",
-      "raca": "SRD",
+      "imagem": "dogCard06.jpg",
+      "id": 7,
+      "nome": "Lucy",
+      "raca": "Beagle",
       "idade": "2"
     },
     {
-      "imagem": "dogCard02.jpg",
-      "id": 3,
-      "nome": "Lary Dog",
-      "raca": "SRD",
+      "imagem": "dogCard07.jpg",
+      "id": 8,
+      "nome": "Rocky",
+      "raca": "German Shepherd",
+      "idade": "5"
+    },
+    {
+      "imagem": "dogCard08.jpg",
+      "id": 9,
+      "nome": "Daisy",
+      "raca": "Bulldog Francês",
       "idade": "1"
     },
     {
-      "imagem": "dogCard01.jpg",
-      "id": 2,
-      "nome": "Gremlin",
-      "raca": "SRD",
-      "idade": "2"
-    },
-    {
-      "imagem": "dogCard02.jpg",
-      "id": 3,
-      "nome": "Lary Dog",
-      "raca": "SRD",
-      "idade": "1"
-    },
-    {
-      "imagem": "snoop.jpg",
-      "id": 1,
-      "nome": "Snoop Human",
-      "raca": "SRD",
+      "imagem": "dogCard09.jpg",
+      "id": 10,
+      "nome": "Bailey",
+      "raca": "Boxer",
       "idade": "3"
     },
     {
-      "imagem": "dogCard01.jpg",
-      "id": 2,
-      "nome": "Gremlin",
-      "raca": "SRD",
+      "imagem": "dogCard10.jpg",
+      "id": 11,
+      "nome": "Cooper",
+      "raca": "Corgi",
       "idade": "2"
     },
     {
-      "imagem": "dogCard02.jpg",
-      "id": 3,
-      "nome": "Lary Dog",
-      "raca": "SRD",
+      "imagem": "dogCard11.jpg",
+      "id": 12,
+      "nome": "Lola",
+      "raca": "Dachshund",
+      "idade": "4"
+    },
+    {
+      "imagem": "dogCard12.jpg",
+      "id": 13,
+      "nome": "Mini Chewbacca",
+      "raca": "Shih Tzu",
       "idade": "1"
-    }
+    },
+    {
+      "imagem": "dogCard13.jpg",
+      "id": 14,
+      "nome": "Sadie",
+      "raca": "Schnauzer",
+      "idade": "3"
+    },
+    {
+      "imagem": "dogCard14.jpg",
+      "id": 15,
+      "nome": "Bailey",
+      "raca": "Bulldog Inglês",
+      "idade": "2"
+    },
+    {
+      "imagem": "dogCard15.jpg",
+      "id": 16,
+      "nome": "Charlie",
+      "raca": "Husky Siberiano",
+      "idade": "5"
+    },
+    {
+      "imagem": "dogCard16.jpg",
+      "id": 17,
+      "nome": "Highlander",
+      "raca": "Chihuahua",
+      "idade": "110"
+    },
+    {
+      "imagem": "dogCard17.jpg",
+      "id": 18,
+      "nome": "Teddy",
+      "raca": "Pomeranian",
+      "idade": "3"
+    },
+    {
+      "imagem": "dogCard18.jpg",
+      "id": 19,
+      "nome": "Coco",
+      "raca": "Maltese",
+      "idade": "2"
+    } 
   ],
   "Clientes": [
     {

@@ -13,10 +13,7 @@ export function Footer(){
             <li><FaInstagram className={styles.icon}/></li>
             <li><FaLinkedin className={styles.icon}/></li>
            </ul>
-            
-            
-            
-
+       
         </footer>
     )
 }
