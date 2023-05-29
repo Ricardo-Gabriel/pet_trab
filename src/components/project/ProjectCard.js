@@ -16,7 +16,7 @@ export default function ProjectCard({imagem,id,name,raca,idade}) {
         <h3 > Nome: {name} </h3>
         <p> Raça: {raca} </p>
         <p> Idade: {idade} Anos</p>
-        
+        <button type="submit"> Adotar</button>
       </div>
     </div>
   );

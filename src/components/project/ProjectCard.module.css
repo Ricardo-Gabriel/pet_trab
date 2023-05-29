@@ -31,7 +31,10 @@
 .card_txt h3 {
     color: #FE9000;
 }
-
+.card_txt button {
+    margin-right: 50%;
+    border-radius: 10%;
+}
 
 
 
